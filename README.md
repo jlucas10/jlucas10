@@ -24,6 +24,7 @@ I'm a Computer Science graduate from SFSU based in the Bay Area, focused on back
 *   🏃‍♂️ LA Marathon finisher.
 
 📫 **Let's Connect:** Check out my repos or open an issue to collaborate!
+*    Reach out to josiahlucascs@gmail.com for any questions!
 
 <!--
 **jlucas10/jlucas10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
