@@ -4,7 +4,7 @@
 
 Backend & applied AI engineer · B.S. Computer Science, SF State '26 · Bay Area, open to relocation
 
-🌐 [josiahlucas.dev](https://josiahlucas.dev) · 💼 [LinkedIn](https://linkedin.com/in/josiahjlucas) · ✉️ [josiahlucascs@gmail.com](mailto:josiahlucascs@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=2dd4bf)](https://josiahlucas.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/josiahjlucas) [![Email](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:josiahlucascs@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jlucas10)
 
 ---
 
@@ -17,7 +17,7 @@ A live trading journal and AI assistant for prop-firm traders.
 - AI assistant with a grounding guard that cut the correction rate from **12% → 2.7%**
 - **65+ tests** against real PostgreSQL · **148/150** on a 50-question eval harness
 
-**Stack:** Java · Spring Boot · PostgreSQL · React · FastAPI · Gemini · AWS S3
+`Java` `Spring Boot` `PostgreSQL` `React` `FastAPI` `Gemini` `AWS S3`
 
 [Live demo](https://alpha-tracker-journal.vercel.app) · [Code](https://github.com/jlucas10/AlphaTrackerv2)
 
@@ -27,12 +27,12 @@ Async Python pipeline that reviews image and text evidence for insurance fraud (
 - Every model response validated against Pydantic schemas
 - Guardrails catch hallucinated and out-of-scope output before the final decision
 
-**Stack:** Python · Gemini 2.5 Flash · Pydantic
+`Python` `Gemini 2.5 Flash` `Pydantic`
 
 ### 🧩 [Open Source: Alibaba open-code-review](https://github.com/alibaba/open-code-review/pull/1346)
 Merged PR restyling the coverage and token-usage report in a Go-templated tool, for light and dark themes.
 
-**Stack:** Go · HTML/CSS
+`Go` `HTML/CSS`
 
 ---
 
