@@ -1,11 +1,10 @@
 # Hi, I'm Josiah 👋
 
 **Building AI agents you can trust with real numbers.**
+
 Backend & applied AI engineer · B.S. Computer Science, SF State '26 · Bay Area, open to relocation
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-josiah--lucas.vercel.app-2dd4bf?style=for-the-badge&logo=vercel&logoColor=white)](https://josiah-lucas.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-josiahjlucas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josiahjlucas)
-[![Email](https://img.shields.io/badge/Email-josiahlucascs%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josiahlucascs@gmail.com)
+🌐 [josiahlucas.dev](https://josiahlucas.dev) · 💼 [LinkedIn](https://linkedin.com/in/josiahjlucas) · ✉️ [josiahlucascs@gmail.com](mailto:josiahlucascs@gmail.com)
 
 ---
 
@@ -18,7 +17,7 @@ A live trading journal and AI assistant for prop-firm traders.
 - AI assistant with a grounding guard that cut the correction rate from **12% → 2.7%**
 - **65+ tests** against real PostgreSQL · **148/150** on a 50-question eval harness
 
-`Java` `Spring Boot` `PostgreSQL` `React` `FastAPI` `Gemini` `AWS S3`
+**Stack:** Java · Spring Boot · PostgreSQL · React · FastAPI · Gemini · AWS S3
 
 [Live demo](https://alpha-tracker-journal.vercel.app) · [Code](https://github.com/jlucas10/AlphaTrackerv2)
 
@@ -28,17 +27,12 @@ Async Python pipeline that reviews image and text evidence for insurance fraud (
 - Every model response validated against Pydantic schemas
 - Guardrails catch hallucinated and out-of-scope output before the final decision
 
-`Python` `Gemini 2.5 Flash` `Pydantic`
+**Stack:** Python · Gemini 2.5 Flash · Pydantic
 
 ### 🧩 [Open Source: Alibaba open-code-review](https://github.com/alibaba/open-code-review/pull/1346)
 Merged PR restyling the coverage and token-usage report in a Go-templated tool, for light and dark themes.
 
-`Go` `HTML/CSS`
-
-### 📚 [StudyBuddy](STUDYBUDDY-REPO-LINK)
-A collaborative, open-source academic productivity tool.
-
-`ADD-STACK`
+**Stack:** Go · HTML/CSS
 
 ---
 
